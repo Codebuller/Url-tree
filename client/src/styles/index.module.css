@@ -1,0 +1,28 @@
+.flexText{
+    
+    
+    z-index:-2;
+    height:2.1em;
+    overflow: hidden;
+    
+}
+.conteiner{
+    
+    overflow: hidden;
+    z-index:2;
+    margin-left:5vw;
+    padding-top:calc(46px + 5vh);
+    
+}
+.btn{
+    
+    width: 13vmax;
+    height: 7vmin;
+}
+.picture{
+    align-items: center;
+    margin-left: 25%;
+    width: 20%;
+    height: 20%;
+   background-color: #25189a;
+}
